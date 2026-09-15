@@ -106,7 +106,7 @@ Final Game Result
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/buckshot-roulette-cli.git
+git clone https://github.com/jonny14-bro/buckshot-roulette-cli.git
 ```
 
 ### 2. Enter the project directory
