@@ -198,7 +198,7 @@ buckshot-roulette-cli/
 ├── README.md     # Project documentation
 ├── LICENSE       # Project license
 ├── .gitignore    # Git ignored files
-└── assets/       # Optional project images/screenshots
+
 ```
 
 ---
